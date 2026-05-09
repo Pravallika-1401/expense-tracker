@@ -1,0 +1,17 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sensitive - MOST IMPORTANT
+application.properties
+
+# OS
+.DS_Store
+Thumbs.db
